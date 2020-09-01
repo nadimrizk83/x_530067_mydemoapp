@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "description": null,
+  "global": false,
+  "name": "x_530067_mydemoapp.UI_SCRIPT_TEST",
+  "script": {
+    "____see": "sn\\MyDemoApp\\UI Script\\active_true\\global_false\\x_530067_mydemoapp.UI_SCRIPT_TEST.js"
+  },
+  "script_name": "UI_SCRIPT_TEST",
+  "sys_class_name": "sys_ui_script",
+  "sys_created_by": "admin",
+  "sys_created_on": "2020-09-01 18:02:45",
+  "sys_id": "3f7d37641b87d01061ef31d7dc4bcbc8",
+  "sys_mod_count": 2,
+  "sys_name": "x_530067_mydemoapp.UI_SCRIPT_TEST",
+  "sys_package": "eda23d2f1b7a101061ef31d7dc4bcbab",
+  "sys_policy": null,
+  "sys_scope": "eda23d2f1b7a101061ef31d7dc4bcbab",
+  "sys_update_name": "sys_ui_script_3f7d37641b87d01061ef31d7dc4bcbc8",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2020-09-01 18:04:18",
+  "ui_type": 0,
+  "use_scoped_format": false
+}
