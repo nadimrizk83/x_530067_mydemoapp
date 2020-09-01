@@ -3,7 +3,7 @@
  * ClassName   : sys_ui_script
  * Created On  : 2020-09-01 18:02:45
  * Created By  : admin
- * Updated On  : 2020-09-01 18:13:18
+ * Updated On  : 2020-09-01 18:37:07
  * Updated By  : admin
  * URL         : /sys_ui_script.do?sys_id=3f7d37641b87d01061ef31d7dc4bcbc8
  */
@@ -62,5 +62,18 @@ function onChange(control, oldValue, newValue, isLoading)  {
     ga.addParam('sysparm_test_date', newValue);    
     ga.getXMLAnswer(checkAllowed);
     
-  
+    // Based on our script include, inform the user
+    /**
+     * Description
+     * 
+     * @param {any} answer
+     * @returns {undefined}
+     */
+    function checkAllowed(answer){        
+        if (answer !== 'true') {            
+            g_form.addErrorMessage('Discovery date can\'t be in the future');
+            g_form.clearValue('last_discovered');            
+        }    
+    }    
+
 };
