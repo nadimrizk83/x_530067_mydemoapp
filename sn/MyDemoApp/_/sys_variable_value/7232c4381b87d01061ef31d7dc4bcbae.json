@@ -1,0 +1,14 @@
+{
+  "document": "sys_atf_step",
+  "document_key": "271248381b87d01061ef31d7dc4bcba5",
+  "order": 100,
+  "sys_class_name": "sys_variable_value",
+  "sys_created_by": "admin",
+  "sys_created_on": "2020-09-01 18:23:10",
+  "sys_id": "7232c4381b87d01061ef31d7dc4bcbae",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2020-09-01 18:23:10",
+  "value": "title=Test Catalog^EQ",
+  "variable": "b3dba2465320220002c6435723dc34f0"
+}
