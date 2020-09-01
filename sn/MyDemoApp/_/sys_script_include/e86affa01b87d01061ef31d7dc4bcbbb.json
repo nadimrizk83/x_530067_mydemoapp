@@ -1,0 +1,24 @@
+{
+  "access": "package_private",
+  "active": true,
+  "api_name": "x_530067_mydemoapp.Test Script Include",
+  "caller_access": null,
+  "client_callable": false,
+  "description": "Test Script Include",
+  "name": "Test Script Include",
+  "script": {
+    "____see": "sn\\MyDemoApp\\Script Include\\active_true\\x_530067_mydemoapp.Test Script Include.js"
+  },
+  "sys_class_name": "sys_script_include",
+  "sys_created_by": "admin",
+  "sys_created_on": "2020-09-01 17:50:54",
+  "sys_id": "e86affa01b87d01061ef31d7dc4bcbbb",
+  "sys_mod_count": 1,
+  "sys_name": "Test Script Include",
+  "sys_package": "eda23d2f1b7a101061ef31d7dc4bcbab",
+  "sys_policy": "read",
+  "sys_scope": "eda23d2f1b7a101061ef31d7dc4bcbab",
+  "sys_update_name": "sys_script_include_e86affa01b87d01061ef31d7dc4bcbbb",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2020-09-01 17:51:12"
+}
