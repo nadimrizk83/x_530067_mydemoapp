@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2020-09-02 13:51:36">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="MyDemoApp">eda23d2f1b7a101061ef31d7dc4bcbab</application>
+<application_name>MyDemoApp</application_name>
+<application_scope>x_530067_mydemoapp</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Automatically created by CICD Process</description>
+<inserted/>
+<name>MyDemoApp - 1.0.10</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value="MyDemoApp - 1.0.10">26adc8c91b03141061ef31d7dc4bcb5b</remote_base_update_set>
+<remote_parent_id/>
+<remote_sys_id>0b8dc8c91b03141061ef31d7dc4bcb8c</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-09-02 13:51:36</sys_created_on>
+<sys_id>26adc8c91b03141061ef31d7dc4bcb5b</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-09-02 13:51:36</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="MyDemoApp">eda23d2f1b7a101061ef31d7dc4bcbab</application>
+<application_name>MyDemoApp</application_name>
+<application_scope>x_530067_mydemoapp</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Automatically created by CICD Process</description>
+<inserted/>
+<name>MyDemoApp - 1.0.10</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value="MyDemoApp - 1.0.10">26adc8c91b03141061ef31d7dc4bcb5b</remote_base_update_set>
+<remote_parent_id/>
+<remote_sys_id>0b8dc8c91b03141061ef31d7dc4bcb8c</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-09-02 13:51:36</sys_created_on>
+<sys_id>26adc8c91b03141061ef31d7dc4bcb5b</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-09-02 13:51:36</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="MyDemoApp">eda23d2f1b7a101061ef31d7dc4bcbab</application>
+<application_name>MyDemoApp</application_name>
+<application_scope>x_530067_mydemoapp</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>MyDemoApp - 1.0.8</name>
+<origin_sys_id/>
+<parent display_value="MyDemoApp - 1.0.10">26adc8c91b03141061ef31d7dc4bcb5b</parent>
+<release_date/>
+<remote_base_update_set display_value="MyDemoApp - 1.0.10">26adc8c91b03141061ef31d7dc4bcb5b</remote_base_update_set>
+<remote_parent_id/>
+<remote_sys_id>824c00c91b03141061ef31d7dc4bcbf4</remote_sys_id>
+<state>in_hierarchy</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-09-02 13:51:36</sys_created_on>
+<sys_id>eeadc00d1b03141061ef31d7dc4bcb48</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-09-02 13:51:36</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="MyDemoApp">eda23d2f1b7a101061ef31d7dc4bcbab</application>
+<application_name>MyDemoApp</application_name>
+<application_scope>x_530067_mydemoapp</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>MyDemoApp - 1.0.9</name>
+<origin_sys_id/>
+<parent display_value="MyDemoApp - 1.0.10">26adc8c91b03141061ef31d7dc4bcb5b</parent>
+<release_date/>
+<remote_base_update_set display_value="MyDemoApp - 1.0.10">26adc8c91b03141061ef31d7dc4bcb5b</remote_base_update_set>
+<remote_parent_id/>
+<remote_sys_id>26dcc4c91b03141061ef31d7dc4bcba0</remote_sys_id>
+<state>in_hierarchy</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-09-02 13:51:36</sys_created_on>
+<sys_id>eeadc8c91b03141061ef31d7dc4bcb5b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-09-02 13:51:36</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="MyDemoApp">eda23d2f1b7a101061ef31d7dc4bcbab</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_include_177cc0c91b03141061ef31d7dc4bcb58</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;&lt;sys_script_include action="INSERT_OR_UPDATE"&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;active&gt;true&lt;/active&gt;&lt;api_name&gt;x_530067_mydemoapp.Test_Script_Include_Demo&lt;/api_name&gt;&lt;caller_access/&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;description/&gt;&lt;name&gt;Test_Script_Include_Demo&lt;/name&gt;&lt;script&gt;&lt;![CDATA[/**
+ * Class Description
+ * 
+ * @class 
+ * @author System Administrator [admin]
+ * @memberof x_530067_mydemoapp.module:sys_script_include
+ */
+var Test_Script_Include_Demo = Class.create();
+Test_Script_Include_Demo.prototype = /** @lends x_530067_mydemoapp.module:sys_script_include.Test_Script_Include_Demo.prototype */ {
+    /**
+     * Description
+     * 
+     * @returns {undefined}
+     */
+    initialize: function() {
+    },
+
+    type: 'Test_Script_Include_Demo'
+};]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-09-02 13:47:03&lt;/sys_created_on&gt;&lt;sys_id&gt;177cc0c91b03141061ef31d7dc4bcb58&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;Test_Script_Include_Demo&lt;/sys_name&gt;&lt;sys_package display_value="MyDemoApp" source="x_530067_mydemoapp"&gt;eda23d2f1b7a101061ef31d7dc4bcbab&lt;/sys_package&gt;&lt;sys_policy&gt;read&lt;/sys_policy&gt;&lt;sys_scope display_value="MyDemoApp"&gt;eda23d2f1b7a101061ef31d7dc4bcbab&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_include_177cc0c91b03141061ef31d7dc4bcb58&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-09-02 13:47:11&lt;/sys_updated_on&gt;&lt;/sys_script_include&gt;&lt;/record_update&gt;</payload>
+<payload_hash>988016803</payload_hash>
+<remote_update_set display_value="MyDemoApp - 1.0.8">eeadc00d1b03141061ef31d7dc4bcb48</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-09-02 13:51:36</sys_created_on>
+<sys_id>a2adc00d1b03141061ef31d7dc4bcb49</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1744f1246a40000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-09-02 13:51:36</sys_updated_on>
+<table/>
+<target_name>Test_Script_Include_Demo</target_name>
+<type>Script Include</type>
+<update_domain>global</update_domain>
+<update_guid>4eac48492c0314107c69e64c9b84ec94</update_guid>
+<update_guid_history>4eac48492c0314107c69e64c9b84ec94:988016803,00acc0c9f00314101d06082cef208462:506724340</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="MyDemoApp">eda23d2f1b7a101061ef31d7dc4bcbab</application>
+<category>customer</category>
+<comments/>
+<name>sys_atf_step_a05d08c91b03141061ef31d7dc4bcbee</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step"><sys_atf_step action="INSERT_OR_UPDATE"><active>true</active><copied_from/><description>Submit the current form and confirm form submitted to server</description><display_name>Submit a Form</display_name><inputs/><mugshots_cache_json/><notes/><order>4</order><snapshot/><step_config display_value="Submit a Form">be8e0a935332120028bc29cac2dc34e4</step_config><sys_class_name>sys_atf_step</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-09-02 13:50:10</sys_created_on><sys_id>a05d08c91b03141061ef31d7dc4bcbee</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Submit a Form</sys_name><sys_package display_value="MyDemoApp" source="x_530067_mydemoapp">eda23d2f1b7a101061ef31d7dc4bcbab</sys_package><sys_policy/><sys_scope display_value="MyDemoApp">eda23d2f1b7a101061ef31d7dc4bcbab</sys_scope><sys_update_name>sys_atf_step_a05d08c91b03141061ef31d7dc4bcbee</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-09-02 13:50:10</sys_updated_on><table/><test display_value="MyDemoAppTestDemo">9aec08c91b03141061ef31d7dc4bcbe8</test><timeout>1970-01-01 00:00:05</timeout><warning_message/></sys_atf_step><sys_variable_value action="delete_multiple" query="document_key=a05d08c91b03141061ef31d7dc4bcbee"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>a05d08c91b03141061ef31d7dc4bcbee</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-09-02 13:50:10</sys_created_on><sys_id>295d0cc91b03141061ef31d7dc4bcbb3</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-09-02 13:50:10</sys_updated_on><value>form_submitted_to_server</value><variable display_value="">c796d40497302200abe4bb7503ac4ad8</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>a05d08c91b03141061ef31d7dc4bcbee</document_key><order>50</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-09-02 13:50:10</sys_created_on><sys_id>e95d0cc91b03141061ef31d7dc4bcbb3</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-09-02 13:50:10</sys_updated_on><value>standard_ui</value><variable display_value="">ae8b91c9ffa333008d3f5d9ad53bf1ba</variable></sys_variable_value></record_update>]]></payload>
+<payload_hash>-1744536091</payload_hash>
+<remote_update_set display_value="MyDemoApp - 1.0.9">eeadc8c91b03141061ef31d7dc4bcb5b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-09-02 13:51:36</sys_created_on>
+<sys_id>2eadc8c91b03141061ef31d7dc4bcb5c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1744f14ffcc0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-09-02 13:51:36</sys_updated_on>
+<table/>
+<target_name>Submit a Form</target_name>
+<type>Test Step</type>
+<update_domain>global</update_domain>
+<update_guid>e15d0cc913031410ee7d556a00b622b5</update_guid>
+<update_guid_history>e15d0cc913031410ee7d556a00b622b5:-1744536091</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="MyDemoApp">eda23d2f1b7a101061ef31d7dc4bcbab</application>
+<category>customer</category>
+<comments/>
+<name>sys_atf_test_suite_test_96fc48c91b03141061ef31d7dc4bcbac</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test_suite_test"><sys_atf_test_suite_test action="INSERT_OR_UPDATE"><abort_on_failure>false</abort_on_failure><order/><sys_class_name>sys_atf_test_suite_test</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-09-02 13:48:35</sys_created_on><sys_id>96fc48c91b03141061ef31d7dc4bcbac</sys_id><sys_mod_count>0</sys_mod_count><sys_name>9aec08c91b03141061ef31d7dc4bcbe8</sys_name><sys_package display_value="MyDemoApp" source="x_530067_mydemoapp">eda23d2f1b7a101061ef31d7dc4bcbab</sys_package><sys_policy/><sys_scope display_value="MyDemoApp">eda23d2f1b7a101061ef31d7dc4bcbab</sys_scope><sys_update_name>sys_atf_test_suite_test_96fc48c91b03141061ef31d7dc4bcbac</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-09-02 13:48:35</sys_updated_on><test display_value="MyDemoAppTestDemo">9aec08c91b03141061ef31d7dc4bcbe8</test><test_suite display_value="MyDemoAppTestSuite">7d4104381b87d01061ef31d7dc4bcba0</test_suite></sys_atf_test_suite_test></record_update>]]></payload>
+<payload_hash>-2123668853</payload_hash>
+<remote_update_set display_value="MyDemoApp - 1.0.9">eeadc8c91b03141061ef31d7dc4bcb5b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-09-02 13:51:36</sys_created_on>
+<sys_id>66adc8c91b03141061ef31d7dc4bcb5d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1744f138cfa0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-09-02 13:51:36</sys_updated_on>
+<table/>
+<target_name>9aec08c91b03141061ef31d7dc4bcbe8</target_name>
+<type>Test Suite Test</type>
+<update_domain>global</update_domain>
+<update_guid>16fc48c9ad0314103578e276ac57b9ae</update_guid>
+<update_guid_history>16fc48c9ad0314103578e276ac57b9ae:-2123668853</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="MyDemoApp">eda23d2f1b7a101061ef31d7dc4bcbab</application>
+<category>customer</category>
+<comments/>
+<name>sys_atf_step_803dc8c91b03141061ef31d7dc4bcb9e</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step"><sys_atf_step action="INSERT_OR_UPDATE"><active>true</active><copied_from/><description>Set the following values on the form:
+Title = This is an Update Set Only Batch Test
+
+Warning: Using a table that extends Application File [sys_metadata] may cause unexpected behavior for other tests running in parallel&#13;
+See the documentation for Test Design Considerations</description><display_name>Set Field Values</display_name><inputs/><mugshots_cache_json/><notes/><order>3</order><snapshot/><step_config display_value="Set Field Values">fcae4a935332120028bc29cac2dc340e</step_config><sys_class_name>sys_atf_step</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-09-02 13:49:57</sys_created_on><sys_id>803dc8c91b03141061ef31d7dc4bcb9e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Set Field Values</sys_name><sys_package display_value="MyDemoApp" source="x_530067_mydemoapp">eda23d2f1b7a101061ef31d7dc4bcbab</sys_package><sys_policy/><sys_scope display_value="MyDemoApp">eda23d2f1b7a101061ef31d7dc4bcbab</sys_scope><sys_update_name>sys_atf_step_803dc8c91b03141061ef31d7dc4bcb9e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-09-02 13:49:57</sys_updated_on><table>sc_catalog</table><test display_value="MyDemoAppTestDemo">9aec08c91b03141061ef31d7dc4bcbe8</test><timeout/><warning_message>Warning: Using a table that extends Application File [sys_metadata] may cause unexpected behavior for other tests running in parallel&#13;
+See the documentation for Test Design Considerations</warning_message></sys_atf_step><sys_variable_value action="delete_multiple" query="document_key=803dc8c91b03141061ef31d7dc4bcb9e"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>803dc8c91b03141061ef31d7dc4bcb9e</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-09-02 13:49:57</sys_created_on><sys_id>5e4dc0c91b03141061ef31d7dc4bcb6f</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-09-02 13:49:57</sys_updated_on><value>title=This is an Update Set Only Batch Test^EQ</value><variable display_value="">b3dba2465320220002c6435723dc34f0</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>803dc8c91b03141061ef31d7dc4bcb9e</document_key><order>50</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-09-02 13:49:57</sys_created_on><sys_id>964dc0c91b03141061ef31d7dc4bcb6f</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-09-02 13:49:57</sys_updated_on><value>standard_ui</value><variable display_value="">946f3c1a0f23330072e6452bc4767eda</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>803dc8c91b03141061ef31d7dc4bcb9e</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-09-02 13:49:57</sys_created_on><sys_id>9a4dc0c91b03141061ef31d7dc4bcb6f</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-09-02 13:49:57</sys_updated_on><value>sc_catalog</value><variable display_value="">424ca6465320220002c6435723dc34b5</variable></sys_variable_value></record_update>]]></payload>
+<payload_hash>-542583712</payload_hash>
+<remote_update_set display_value="MyDemoApp - 1.0.9">eeadc8c91b03141061ef31d7dc4bcb5b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-09-02 13:51:36</sys_created_on>
+<sys_id>6aadc8c91b03141061ef31d7dc4bcb5c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1744f14ccc30000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-09-02 13:51:36</sys_updated_on>
+<table>sc_catalog</table>
+<target_name>Set Field Values</target_name>
+<type>Test Step</type>
+<update_domain>global</update_domain>
+<update_guid>d64dc0c9a403141043a9287be9febc71</update_guid>
+<update_guid_history>d64dc0c9a403141043a9287be9febc71:-542583712</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="MyDemoApp">eda23d2f1b7a101061ef31d7dc4bcbab</application>
+<category>customer</category>
+<comments/>
+<name>sys_atf_step_691d88c91b03141061ef31d7dc4bcb86</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step"><sys_atf_step action="INSERT_OR_UPDATE"><active>true</active><copied_from/><description>Open a new 'Catalog' form</description><display_name>Open a New Form</display_name><inputs/><mugshots_cache_json/><notes/><order>2</order><snapshot/><step_config display_value="Open a New Form">05317cd10b10220050192f15d6673af8</step_config><sys_class_name>sys_atf_step</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-09-02 13:49:23</sys_created_on><sys_id>691d88c91b03141061ef31d7dc4bcb86</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Open a New Form</sys_name><sys_package display_value="MyDemoApp" source="x_530067_mydemoapp">eda23d2f1b7a101061ef31d7dc4bcbab</sys_package><sys_policy/><sys_scope display_value="MyDemoApp">eda23d2f1b7a101061ef31d7dc4bcbab</sys_scope><sys_update_name>sys_atf_step_691d88c91b03141061ef31d7dc4bcb86</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-09-02 13:49:23</sys_updated_on><table>sc_catalog</table><test display_value="MyDemoAppTestDemo">9aec08c91b03141061ef31d7dc4bcbe8</test><timeout/><warning_message/></sys_atf_step><sys_variable_value action="delete_multiple" query="document_key=691d88c91b03141061ef31d7dc4bcb86"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>691d88c91b03141061ef31d7dc4bcb86</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-09-02 13:49:23</sys_created_on><sys_id>862d0cc91b03141061ef31d7dc4bcb27</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-09-02 13:49:23</sys_updated_on><value>sc_catalog</value><variable display_value="">bb84ed825320220002c6435723dc3400</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>691d88c91b03141061ef31d7dc4bcb86</document_key><order>200</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-09-02 13:49:23</sys_created_on><sys_id>c22d0cc91b03141061ef31d7dc4bcb27</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-09-02 13:49:23</sys_updated_on><value/><variable display_value="">27d4e1c25320220002c6435723dc3486</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>691d88c91b03141061ef31d7dc4bcb86</document_key><order>50</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-09-02 13:49:23</sys_created_on><sys_id>ce2d0cc91b03141061ef31d7dc4bcb26</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-09-02 13:49:23</sys_updated_on><value>standard_ui</value><variable display_value="">6f2a59a4e7133300b5646ea8c2f6a975</variable></sys_variable_value></record_update>]]></payload>
+<payload_hash>-1090092137</payload_hash>
+<remote_update_set display_value="MyDemoApp - 1.0.9">eeadc8c91b03141061ef31d7dc4bcb5b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-09-02 13:51:36</sys_created_on>
+<sys_id>a2adc8c91b03141061ef31d7dc4bcb5c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1744f1449950000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-09-02 13:51:36</sys_updated_on>
+<table>sc_catalog</table>
+<target_name>Open a New Form</target_name>
+<type>Test Step</type>
+<update_domain>global</update_domain>
+<update_guid>022d0cc9d603141095afe1ec10c11329</update_guid>
+<update_guid_history>022d0cc9d603141095afe1ec10c11329:-1090092137</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="MyDemoApp">eda23d2f1b7a101061ef31d7dc4bcbab</application>
+<category>customer</category>
+<comments/>
+<name>sys_atf_test_9aec08c91b03141061ef31d7dc4bcbe8</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test"><sys_atf_test action="INSERT_OR_UPDATE"><active>true</active><copied_from/><description/><enable_parameterized_testing>false</enable_parameterized_testing><name>MyDemoAppTestDemo</name><parameters/><remember/><sys_class_name>sys_atf_test</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-09-02 13:48:33</sys_created_on><sys_id>9aec08c91b03141061ef31d7dc4bcbe8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>MyDemoAppTestDemo</sys_name><sys_package display_value="MyDemoApp" source="x_530067_mydemoapp">eda23d2f1b7a101061ef31d7dc4bcbab</sys_package><sys_policy/><sys_scope display_value="MyDemoApp">eda23d2f1b7a101061ef31d7dc4bcbab</sys_scope><sys_update_name>sys_atf_test_9aec08c91b03141061ef31d7dc4bcbe8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-09-02 13:48:33</sys_updated_on></sys_atf_test><sys_variable_value action="delete_multiple" query="document_key=9aec08c91b03141061ef31d7dc4bcbe8"/></record_update>]]></payload>
+<payload_hash>-2061260431</payload_hash>
+<remote_update_set display_value="MyDemoApp - 1.0.9">eeadc8c91b03141061ef31d7dc4bcb5b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-09-02 13:51:36</sys_created_on>
+<sys_id>a2adc8c91b03141061ef31d7dc4bcb5d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1744f13853e0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-09-02 13:51:36</sys_updated_on>
+<table/>
+<target_name>MyDemoAppTestDemo</target_name>
+<type>Test</type>
+<update_domain>global</update_domain>
+<update_guid>fdfc08c92b03141021833747cb694779</update_guid>
+<update_guid_history>fdfc08c92b03141021833747cb694779:-2061260431</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="MyDemoApp">eda23d2f1b7a101061ef31d7dc4bcbab</application>
+<category>customer</category>
+<comments/>
+<name>sys_atf_step_bc0d88c91b03141061ef31d7dc4bcb7e</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step"><sys_atf_step action="INSERT_OR_UPDATE"><active>true</active><copied_from/><description>Impersonate the user: DevOps Integration with user Id: devops
+
+Warning: Impersonating an existing user may cause unexpected behavior for this test. Avoid potential issues by adding a 'Create a User' step instead&#13;
+See the documentation for Test Design Considerations</description><display_name>Impersonate</display_name><inputs/><mugshots_cache_json/><notes/><order>1</order><snapshot/><step_config display_value="Impersonate">071ee5b253331200040729cac2dc348d</step_config><sys_class_name>sys_atf_step</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-09-02 13:48:53</sys_created_on><sys_id>bc0d88c91b03141061ef31d7dc4bcb7e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Impersonate</sys_name><sys_package display_value="MyDemoApp" source="x_530067_mydemoapp">eda23d2f1b7a101061ef31d7dc4bcbab</sys_package><sys_policy/><sys_scope display_value="MyDemoApp">eda23d2f1b7a101061ef31d7dc4bcbab</sys_scope><sys_update_name>sys_atf_step_bc0d88c91b03141061ef31d7dc4bcb7e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-09-02 13:48:53</sys_updated_on><table/><test display_value="MyDemoAppTestDemo">9aec08c91b03141061ef31d7dc4bcbe8</test><timeout/><warning_message>Warning: Impersonating an existing user may cause unexpected behavior for this test. Avoid potential issues by adding a 'Create a User' step instead&#13;
+See the documentation for Test Design Considerations</warning_message></sys_atf_step><sys_variable_value action="delete_multiple" query="document_key=bc0d88c91b03141061ef31d7dc4bcb7e"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>bc0d88c91b03141061ef31d7dc4bcb7e</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-09-02 13:48:53</sys_created_on><sys_id>fa0dc4c91b03141061ef31d7dc4bcbb3</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-09-02 13:48:53</sys_updated_on><value>4ce915af1b3a101061ef31d7dc4bcb08</value><variable display_value="">586e2c4253e0220002c6435723dc3415</variable></sys_variable_value></record_update>]]></payload>
+<payload_hash>-1386726286</payload_hash>
+<remote_update_set display_value="MyDemoApp - 1.0.9">eeadc8c91b03141061ef31d7dc4bcb5b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-09-02 13:51:36</sys_created_on>
+<sys_id>eeadc8c91b03141061ef31d7dc4bcb5c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1744f13d2b40000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-09-02 13:51:36</sys_updated_on>
+<table/>
+<target_name>Impersonate</target_name>
+<type>Test Step</type>
+<update_domain>global</update_domain>
+<update_guid>f60dc4c9240314105c61c92d76cc9bb5</update_guid>
+<update_guid_history>f60dc4c9240314105c61c92d76cc9bb5:-1386726286</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
